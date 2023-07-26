@@ -20,7 +20,7 @@ struct gigabyte_ec_addr_bit{
 
 struct gigabyte_ec_fan_mode_conf {
     struct gigabyte_ec_addr_bit addr_bit[GIGABYTE_EC_N_OF_ADDRESS];
-    struct gigabyte_ec_mode     modes[6];
+    struct gigabyte_ec_mode     modes[5];
 };
 
 struct gigabyte_ec_charging_mode_conf {
