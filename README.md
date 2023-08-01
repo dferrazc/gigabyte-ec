@@ -1,1 +1,1 @@
-# gigabyte-ec
+# gigabyte-laptop
