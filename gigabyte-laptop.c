@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 
-#include "gigabyte-ec.h"
+#include "gigabyte-laptop.h"
 
 #include <linux/module.h>
 #include <linux/init.h>
